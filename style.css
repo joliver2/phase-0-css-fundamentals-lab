@@ -2,4 +2,48 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: darkgrey;
+}
+
+nav {
+  text-align: center;
+}
+
+figcaption {
+  font-size: smaller;
+  margin-top: 10px;
+}
+
+p .featured-property {
+  width: 800px;
+}
+
+div {
+  float: left;
+  background: red;
+  width: 25%;
+
+}
+
+a #details {
+  background-color: red;
+}
+
+
